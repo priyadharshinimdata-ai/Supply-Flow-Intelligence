@@ -1,20 +1,78 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚚 SupplyFlow Intelligence
 
-# Run and deploy your AI Studio app
+> AI-Powered Supply Chain & Logistics Intelligence Platform
 
-This contains everything you need to run your app locally.
+SupplyFlow Intelligence is a modern analytics platform designed to help logistics and supply-chain teams understand operational performance through interactive dashboards, KPIs, visual analytics and intelligent insights.
 
-View your app in AI Studio: https://ai.studio/apps/90e9ad66-26a7-41db-9345-fdfc9cddcc6c
+## 🌐 Live Demo
 
-## Run Locally
+[View Live Demo]https://tranquil-vacherin-21a885.netlify.app
 
-**Prerequisites:**  Node.js
+## ✨ Key Features
 
+- 📊 Interactive Supply Chain Dashboard
+- 🚚 Logistics Performance Analytics
+- 📦 Supply & Inventory Insights
+- 📈 KPI Monitoring
+- 💰 Cost & Performance Analysis
+- 🗺️ Operational & Route Insights
+- 🤖 AI-Powered Business Insights
+- 📱 Responsive Modern UI/UX
+- ⚡ Interactive Data Visualizations
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🎯 Business Use Case
+
+SupplyFlow Intelligence helps businesses monitor supply-chain operations, identify performance trends, understand operational costs and make data-driven decisions from a centralized analytics platform.
+
+## 🛠️ Technology Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Recharts
+- Express.js
+- Google Gemini API
+- Lucide React
+- Motion
+
+## 📊 Analytics
+
+The platform provides visual insights for:
+
+- Supply-chain performance
+- Logistics operations
+- Delivery trends
+- Cost analysis
+- KPI monitoring
+- Operational performance
+
+## 🤖 AI Intelligence
+
+The platform is designed to provide AI-assisted insights using business and operational data.
+
+AI insights should be based on available application data and should not fabricate business metrics.
+
+## 📱 Responsive Design
+
+SupplyFlow Intelligence is designed for:
+
+- Mobile
+- Tablet
+- Desktop
+- Laptop
+
+The interface follows a modern SaaS dashboard design approach with responsive layouts and interactive visualizations.
+
+## 🔐 Security
+
+- API keys should be stored using environment variables.
+- `.env` files containing secrets must never be committed.
+- `.env.example` is provided as a configuration reference.
+
+## ⚙️ Local Setup
+
+Clone the repository and install dependencies:
+
+```bash
+npm install
