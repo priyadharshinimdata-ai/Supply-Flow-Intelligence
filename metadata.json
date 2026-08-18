@@ -1,0 +1,6 @@
+{
+  "name": "SupplyFlow Intelligence",
+  "description": "AI-Powered Logistics Data Analytics & Operations Intelligence SaaS platform transforming raw logistics data into operational insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
