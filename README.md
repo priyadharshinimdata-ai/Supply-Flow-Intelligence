@@ -69,6 +69,13 @@ The interface follows a modern SaaS dashboard design approach with responsive la
 - API keys should be stored using environment variables.
 - `.env` files containing secrets must never be committed.
 - `.env.example` is provided as a configuration reference.
+- ## 📸 Project Screenshots
+
+### Dashboard & Charts
+![SupplyFlow Dashboard](Dashboard.jpeg)
+
+### Analytics
+![SupplyFlow Analytics](Analytics.jpeg)
 
 ## ⚙️ Local Setup
 
